@@ -24,10 +24,6 @@
 
 <hr>
 
-### User Flow Chart.
-
-<hr>
-
 ### Sections Overview
 
 #### _Section I. XXX_
@@ -87,4 +83,6 @@ Duis orci felis, semper id hendrerit id, dapibus nec enim. Maecenas turpis risus
 
 <hr>
 
+### User Flow Chart.
 
+<hr>
