@@ -13,7 +13,7 @@
 
 <hr>
 
-### Document Outline
+## Document Outline
 #### Section I. XXX
 #### Section II. XXX
 #### Section III. XXX
