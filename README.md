@@ -3,9 +3,15 @@
 ###### Project Sponsor: XXXXX
 ###### Development Team: XXXX, XXXX, XXXX
 
+<hr>
+
 ## Purpose
 
+<hr>
+
 ## Scope
+
+<hr>
 
 ### Document Outline
 #### Section I. XXX
@@ -15,6 +21,7 @@
 #### Section V. XXX
 #### Section VI. XXX
 
+<hr>
 
 ## Sections Overview
 
