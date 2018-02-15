@@ -1,7 +1,11 @@
 # Online Documentation for the Test Project
 ##### Current as of 2018/02/13
 ###### Project Sponsor: XXXXX
-###### Development Team: XXXX, XXXX, XXXX
+###### Project Manager: XXXXX
+###### Original Development Team: XXXX, XXXX, XXXX
+###### Current Development Team: XXXX, XXXX
+
+###### Project Status: in-progress
 
 <hr>
 
